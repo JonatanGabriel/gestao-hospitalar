@@ -67,3 +67,10 @@ Para acessar os endpoints protegidos:
 
 ## 📁 Organização do Projeto
 
+├── controller
+├── model
+├── repository
+├── service
+├── dto
+└── application.properties
+
